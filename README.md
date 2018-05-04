@@ -42,3 +42,7 @@
 ## LICENSE
 
 &nbsp;&nbsp;&nbsp;&nbsp;本项目遵循iText7的APGL协议
+
+## iText中文官方社区
+
+&nbsp;&nbsp;&nbsp;&nbsp;最近也是加入了[iText中文官方社区](https://github.com/iTextCN)，大家同样也可以在那边看到最新的iText资料！
