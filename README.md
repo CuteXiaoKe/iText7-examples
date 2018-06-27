@@ -30,7 +30,8 @@
 1. 第一章，文章地址：[CSDN博客](https://blog.csdn.net/u012397189/article/details/79888252) | [个人网站](http://www.cuteke.cn/u/CuteKe/blogs/36)  代码实践:[CSDN博客](https://blog.csdn.net/u012397189/article/details/79915660) | [个人网站](http://www.cuteke.cn/u/CuteKe/blogs/37)
 2. 待续....
 
-&nbsp;&nbsp;&nbsp;&nbsp;《iText 7: Converting HTML to PDF with pdfHTML》的翻译文章：  
+&nbsp;&nbsp;&nbsp;&nbsp;《iText 7: Converting HTML to PDF with pdfHTML》的翻译文章
+
 0. 系列导读，文章地址：[CSDN博客](https://blog.csdn.net/u012397189/article/details/80817868) | [个人网站](http://www.cuteke.cn/u/CuteKe/blogs/45)
 
 ## 目录结构
