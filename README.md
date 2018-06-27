@@ -30,6 +30,9 @@
 1. 第一章，文章地址：[CSDN博客](https://blog.csdn.net/u012397189/article/details/79888252) | [个人网站](http://www.cuteke.cn/u/CuteKe/blogs/36)  代码实践:[CSDN博客](https://blog.csdn.net/u012397189/article/details/79915660) | [个人网站](http://www.cuteke.cn/u/CuteKe/blogs/37)
 2. 待续....
 
+&nbsp;&nbsp;&nbsp;&nbsp;《iText 7: 》的翻译文章：
+
+
 ## 目录结构
 
 &nbsp;&nbsp;&nbsp;&nbsp;iText-start文件夹对应《iText 7 Jump-Start Tutorial》，iText-buildingblock文件夹对应《iText 7: Building Blocks》，里面每一目录都是IDEA工程，采用maven构建项目
