@@ -8,7 +8,7 @@
 2. 《iText 7: Building Blocks》
 3. 《iText 7: Converting HTML to PDF with pdfHTML》  
 
-&nbsp;&nbsp;&nbsp;&nbsp;访问我的[CSDN博客](https://blog.csdn.net/u012397189)，CSDN上面有专栏，[iText学习笔记](https://blog.csdn.net/column/details/18037.html
+&nbsp;&nbsp;&nbsp;&nbsp;访问我的[CSDN博客](https://blog.csdn.net/u012397189)，CSDN上面有专栏，[iText学习笔记](https://blog.csdn.net/u012397189/category_9270695.html
 )对应第一本书的内容，还有一些自己的一些见解。
 
 &nbsp;&nbsp;&nbsp;&nbsp;目前正在整理和翻译《Digital Signatures for PDF documents》,这本书是itext5版本的，正在转换成iText7版本。
