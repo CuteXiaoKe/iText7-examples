@@ -1,5 +1,9 @@
 # targert编译文件
 iText-start/*/target/
 iText-start/*/results/
-iText-buildingblock/*/target/
-iText-buildingblock/*/results/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
